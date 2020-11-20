@@ -1,3 +1,3 @@
-module github.com/kyleishie/go-epub
+module github.com/bmaupin/go-epub
 
 require github.com/gofrs/uuid v3.1.0+incompatible
